@@ -4,9 +4,12 @@
 > from user research and Figma wireframes to responsive
 > production code.
 
-![IronForge Preview](screenshots/preview.png)
+## 🌐 Live Demo
+
+🔗 [View Live Site](https://sandraaelias.github.io/ironforge-gym/)
 
 ---
+
 
 ## 📋 Project Overview
 
